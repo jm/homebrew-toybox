@@ -7,5 +7,5 @@ cask "toybox" do
   desc "Package and dependency manager for Playdate's Lua implementation"
   homepage "https://toyboxes.io/"
 
-  bin "toybox"
+  binary "toybox"
 end
